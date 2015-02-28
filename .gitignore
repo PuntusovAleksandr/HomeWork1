@@ -1,1 +1,4 @@
-.i
+.idea
+target
+*.iml
+!*.jar
